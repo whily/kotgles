@@ -21,8 +21,8 @@ The following tools are needed to build Scagles from source:
 * JDK version 6/7 from <http://www.java.com> if Java is not available.
   Note that JDK is preinstalled on Mac OS X and available via package manager
   on many Linux systems.
-* Scala (2.11.0)
-* sbt (0.12.4)
+* Scala (2.11.6)
+* sbt (0.13.4)
 
 To build the library, android.jar in Android SDK (the path could be
 for example `$ANDROID_HOME/platforms/android-22/android.jar`)
